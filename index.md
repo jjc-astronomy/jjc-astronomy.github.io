@@ -7,17 +7,17 @@
   </tr>
   <tr>
     <td>Ph.D.<br>Astrophysics</td>
-    <td>Peking University</td>
+    <td>Department of Astronomy,<br>Peking University</td>
     <td>2017--2022</td>
   </tr>
   <tr>
-    <td>Daul Bachelor of Law<br>International relation</td>
-    <td>Peking University</td>
+    <td>Daul LLB</td>
+    <td>School of International Studies,<br>Peking University</td>
     <td>2014--2017</td>
   </tr>
   <tr>
-    <td>Bachelor of Science<br>Physics</td>
-    <td>Peking University</td>
+    <td>BSc<br>Physics</td>
+    <td>School of Physics,<br>Peking University</td>
     <td>2013--2017</td>
   </tr>
   <tr>
@@ -38,5 +38,6 @@
   <tr>
     <td>Primary school</td>
     <td>Fushun Leifeng Primary School</td>
+    <td>2001--2006</td>
   </tr>
 </table>
