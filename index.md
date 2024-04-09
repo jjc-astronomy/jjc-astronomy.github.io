@@ -1,7 +1,8 @@
 ---
 layout: default
+title: JJC
 ---
-## Education & Employment
+# Education & Employment
 <table>
   <tr>
     <td>Postdoc</td>
@@ -45,4 +46,4 @@ layout: default
   </tr>
 </table>
 
-## Awards
+# Awards
