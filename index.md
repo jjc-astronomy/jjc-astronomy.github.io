@@ -3,13 +3,20 @@ layout: default
 title: JJC
 ---
 # Contact
+
 Current email: jiangjinchen@bao.ac.cn
+
 Previous email: jiangjinchen@pku.edu.cn
+
 ORCID: [0000-0002-6465-0091](https://orcid.org/0000-0002-6465-0091)
+
 ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA](https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA)
 
+
 # Research interests
+
 I’m interested in radio observation of pulsars and FRBs, especially on polarmetry and baseband data processing. I believe that polarisation is the key to understand the radiative mechanism of radio pulsars and FRBs. I’m also working on baseband data in order to achieve high temporal/spectral resolution in pulsar and FRB observations.
+
 
 # Education & Employment
 <table>
@@ -54,5 +61,6 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
     <td>2001--2006</td>
   </tr>
 </table>
+
 
 # Awards
