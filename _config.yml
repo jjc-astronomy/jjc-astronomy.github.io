@@ -1,4 +1,5 @@
 title: JIANG Jinchen
 logo: /assets/jjc_fast.jpg
-description: "Observation-safe: no observation is interfered during photography."
+description: "Obs-safe: no observation was interfered during photography."
+show_downloads: false
 theme: jekyll-theme-minimal
