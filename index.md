@@ -6,7 +6,7 @@
     <td>2022--Now</td>
   </tr>
   <tr>
-    <td>Ph.D.<br>Astrophysics</td>
+    <td>PhD</td>
     <td>Department of Astronomy,<br>Peking University</td>
     <td>2017--2022</td>
   </tr>
@@ -16,7 +16,7 @@
     <td>2014--2017</td>
   </tr>
   <tr>
-    <td>BSc<br>Physics</td>
+    <td>BSc</td>
     <td>School of Physics,<br>Peking University</td>
     <td>2013--2017</td>
   </tr>
@@ -41,3 +41,5 @@
     <td>2001--2006</td>
   </tr>
 </table>
+
+#Awards
