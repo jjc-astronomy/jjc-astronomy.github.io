@@ -64,3 +64,31 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
 
 
 # Awards
+
+<table>
+  <tr>
+    <td>Vela prize</td>
+    <td>FAST/Future Pulsar Symposium (FPS) 11</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>3rd prize</td>
+    <td>18th ZHONG Shengbiao Graduate Forum</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>Outstanding teaching assistant for undergraduate courses</td>
+    <td>School of Physics, Peking University</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>Outstanding teaching assistant for undergraduate courses</td>
+    <td>School of Physics, Peking University</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td>Half-tuition scholarship</td>
+    <td>Peking University</td>
+    <td>2013</td>
+  </tr>
+</table>
