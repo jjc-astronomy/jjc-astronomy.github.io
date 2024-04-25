@@ -57,6 +57,13 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
   </tr>
 </table>
 
+# Collaboration
+
+Chinese Pulsar Timing Array (CPTA)
+
+FAST key science project: fast radio burst searches and multi-wavelength observations
+
+FAST key science project: Galactic Plane Pulsar Snapshot (GPPS) survey
 
 # Awards
 
