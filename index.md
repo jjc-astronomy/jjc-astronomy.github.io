@@ -26,7 +26,7 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
     <td>2017--2022</td>
   </tr>
   <tr>
-    <td>Daul LLB</td>
+    <td>Dual LLB</td>
     <td>School of International Studies,<br>Peking University</td>
     <td>2014--2017</td>
   </tr>
