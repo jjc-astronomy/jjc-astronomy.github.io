@@ -92,3 +92,12 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
     <td>2013</td>
   </tr>
 </table>
+
+# Publication
+
+## As first author or corresponding coauthor
+
+- *Ninety percent circular polarisation detected in a repeating fast radio burst*
+
+  Submitted to NSR | JJC, Xu J. W., Niu J. R., Lee K. J.^\∗^, Zhu W. W.^\∗^, Zhang B.^\∗^, Qu Y., et al. Polarimetry
+- 
