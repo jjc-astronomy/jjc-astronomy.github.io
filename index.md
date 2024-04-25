@@ -8,11 +8,6 @@ Current email: jiangjinchen@bao.ac.cn
 
 Previous email: jiangjinchen@pku.edu.cn
 
-ORCID: [0000-0002-6465-0091](https://orcid.org/0000-0002-6465-0091)
-
-ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA](https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA)
-
-
 # Research interests
 
 I’m interested in radio observation of pulsars and FRBs, especially on polarmetry and baseband data processing. I believe that polarisation is the key to understand the radiative mechanism of radio pulsars and FRBs. I’m also working on baseband data in order to achieve high temporal/spectral resolution in pulsar and FRB observations.
@@ -95,6 +90,10 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
 
 # Publication
 
+ORCID: [0000-0002-6465-0091](https://orcid.org/0000-0002-6465-0091)
+
+ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA](https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWcA)
+
 ## As first author or corresponding coauthor
 
 - *Ninety percent circular polarisation detected in a repeating fast radio burst*
@@ -126,3 +125,29 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
   RAA (2020) \| **JJC**<sup>∗</sup>, Wang W.-Y., Luo R., Du S., Chen X., Lee K.-J., Xu R.-X.
 
   Construction of theory
+
+## As major contributing coauthor
+
+- [*Searching for the Nano-Hertz Stochastic Gravitational Wave Background with the Chinese Pulsar Timing Array Data Release I*](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5024X/abstract)
+
+  RAA (2023) \| Xu H., Chen S., Guo Y., **JJC**, Wang B., Xu J., Xue Z., et al.
+
+  Polarisatioin calibration pipeline
+
+- [*Atlas of dynamic spectra of fast radio burst FRB 20201124A*](https://ui.adsabs.harvard.edu/abs/2023ChPhB..32b9801W/abstract)
+
+  ChPhB (2023) \| Wang B.-J., Xu H., **JJC**, Xu J.-W., Niu J.-R., Chen P., Lee K.-J., et al.
+
+  Polarisation calibration
+
+- [*A fast radio burst source at a complex magnetized site in a barred galaxy*](https://ui.adsabs.harvard.edu/abs/2022Natur.609..685X/abstract)
+
+  Nature (2022) \| Xu H., Niu J. R., Chen P., Lee K. J., Zhu W. W., Dong S., Zhang B., et al.
+
+  Polarisation calibration, RM fitting
+
+- [*Diverse polarization angle swings from a repeating fast radio burst source*](https://ui.adsabs.harvard.edu/abs/2020Natur.586..693L/abstract)
+
+  Nature (2020) \| Luo R., Wang B. J., Men Y. P., Zhang C. F., **JJC**, Xu H., Wang W. Y., et al.
+
+  Source localisation, polarisation calibration, RM fitting, analysis of polarisation profiles, plotting figures
