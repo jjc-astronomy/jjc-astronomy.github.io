@@ -158,3 +158,45 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
   Nature (2020) \| Luo R., Wang B. J., Men Y. P., Zhang C. F., **JJC**, Xu H., Wang W. Y., et al.
 
   Source localisation, polarisation calibration, RM fitting, analysis of polarisation profiles, plotting figures
+
+# Talk & presentation
+
+- *The HI absorption line & anomalous dispersion in pulsar emission*
+
+  11th Beijing-Guangzhou-Xiamen Astrophysics Seminar, Guangzhou, 2023
+
+- *CPTA: observation, polarimetry & jitter*
+
+  Department of Astronomy, Tsinghua University, 2023
+
+- *Preliminary progress of CPTA polarimetry*
+
+  IPTA@Astralia, Port Douglas, 2023
+
+- *FAST observations of an extremely active episode of FRB 20201124A. III. polarimetry*
+
+  Seminar on FRB and its Astrophysics, Hefei, 2023
+
+- *Baseband polarimetry of millisecond pulsars using FAST*
+
+  Yunnan Observatories, 2022
+
+- [*Baseband polarimetry of millisecond pulsars using FAST*](https://psr.pku.edu.cn/conference/fps/FPS11/slide/jiangjc.pdf) (Vela prize)
+
+  FAST/Future Pulsar Symposium (FPS) 11, Jinan, 2022
+
+- *FAST’s hunt for FRBs: polarimetry of FRB 180301*
+
+  Café seminar, FAST site, 2020
+
+- *Polarimetry of repeating FRB 180301 using FAST* (3rd prize)
+
+  18th ZHONG Shengbiao Graduate Forum, School of Physics, Peking University, 2020
+
+- [*FRB 171019: an event of binary neutron star merger?*](https://psr.pku.edu.cn/conference/fps/fragrant_hills/slides/jiang_jc.pdf)
+
+  FPS Special: magnetospheric dynamics, Beijing, 2019
+
+- The wide radio beams & emission region of PSR B0656+14
+
+  QiTai Telescope (QTT) colloquium, Wuhan, 2017
