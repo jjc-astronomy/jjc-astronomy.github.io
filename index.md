@@ -161,11 +161,11 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 # Talk & presentation
 
-- *90% circular polarization detected in FRB 20201124A
+- *90% circular polarization detected in FRB 20201124A*
 
   2nd Seminar on FRB and its Astrophysics, Wuhan, 2024
 
-- *HI absorption line & polarization calibration in CPTA data
+- *HI absorption line & polarization calibration in CPTA data*
 
   Nanshan site, Xinjiang Astronomy Observatory, 2024
 
