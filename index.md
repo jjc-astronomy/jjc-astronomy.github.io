@@ -161,6 +161,14 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 # Talk & presentation
 
+- *90% circular polarization detected in FRB 20201124A
+
+  2nd Seminar on FRB and its Astrophysics, Wuhan, 2024
+
+- *HI absorption line & polarization calibration in CPTA data
+
+  Nanshan site, Xinjiang Astronomy Observatory, 2024
+
 - *The HI absorption line & anomalous dispersion in pulsar emission*
 
   11th Beijing-Guangzhou-Xiamen Astrophysics Seminar, Guangzhou, 2023
@@ -175,7 +183,7 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 - *FAST observations of an extremely active episode of FRB 20201124A. III. polarimetry*
 
-  Seminar on FRB and its Astrophysics, Hefei, 2023
+  1st Seminar on FRB and its Astrophysics, Hefei, 2023
 
 - *Baseband polarimetry of millisecond pulsars using FAST*
 
