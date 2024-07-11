@@ -161,6 +161,10 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 # Talk & presentation
 
+- *HI absorption line & anomalous dispersion in pulsar emission* (poster)
+
+  IPTA@Italy, Sexten/Sesto, 2024
+
 - *90% circular polarization detected in FRB 20201124A*
 
   2nd Seminar on FRB and its Astrophysics, Wuhan, 2024
