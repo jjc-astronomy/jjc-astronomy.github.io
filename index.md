@@ -111,7 +111,7 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
   
 - [*PSR B0943+10: Mode Switch, Polar Cap Geometry, and Orthogonally Polarized Radiation*](https://ui.adsabs.harvard.edu/abs/2023arXiv231211984C/abstract)
 
-  Submitted to ApJ \| Cao S., **JJC**<sup>∗</sup>, Dyks J., Hao L., Lee K., Li Z., Lu J., et al.
+  Accepted by ApJ \| Cao S., **JJC**<sup>∗</sup>, Dyks J., Hao L., Lee K., Li Z., Lu J., et al.
 
   RM fitting, revision
   
