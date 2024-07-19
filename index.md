@@ -161,6 +161,10 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 # Talk & presentation
 
+- *HI absorption line & anomalous dispersion in pulsar emission*
+
+  SKA Pulsar Science Symposium (SPSS) 2024, Kunming, 2024
+
 - *HI absorption line & anomalous dispersion in pulsar emission* (poster)
 
   IPTA@Italy, Sexten/Sesto, 2024
