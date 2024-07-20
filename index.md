@@ -216,11 +216,3 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 - The wide radio beams & emission region of PSR B0656+14
 
   QiTai Telescope (QTT) colloquium, Wuhan, 2017
-
-# Beyond physics
-
-I'm an adult violin beginner. I started learning violin in my last year of PhD. Though I'm daily "tortured" by Carl Flesch, Kreutzer and Suzuki, I find a lot of fun in learning and practicing violin.
-
-I'm also an opera fan. In particular, I like Italian and French operas, e.g. Verdi and Puccini.
-
-I'm interested in international relations. I took dual degree courses on international relations and foreign affairs during my undergraduate and received a bachelor degree of laws from Peking University. I also served as a dais member of PKUNMUN for 6 years to learn and spread knowledge on international politics.
