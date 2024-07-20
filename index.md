@@ -223,4 +223,4 @@ I'm an adult violin beginner. I started learning violin in my last year of PhD. 
 
 I'm also an opera fan. In particular, I like Italian and French operas, e.g. Verdi and Puccini.
 
-I'm also interested in international relations. I took dual degree courses on international relations and foreign affairs during my undergraduate and received a bachelor degree of laws from Peking University. I also served as a dais member of PKUNMUN for 6 years to learn and spread knowledge on international politics.
+I'm interested in international relations. I took dual degree courses on international relations and foreign affairs during my undergraduate and received a bachelor degree of laws from Peking University. I also served as a dais member of PKUNMUN for 6 years to learn and spread knowledge on international politics.
