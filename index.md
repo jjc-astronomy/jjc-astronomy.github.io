@@ -105,13 +105,13 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 - *Ninety percent circular polarisation detected in a repeating fast radio burst*
 
-  Submitted to NSR \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
+  NSR accepted \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
 
   Polarimetry
   
 - [*PSR B0943+10: Mode Switch, Polar Cap Geometry, and Orthogonally Polarized Radiation*](https://ui.adsabs.harvard.edu/abs/2023arXiv231211984C/abstract)
 
-  Accepted by ApJ \| Cao S., **JJC**<sup>∗</sup>, Dyks J., Hao L., Lee K., Li Z., Lu J., et al.
+  ApJ accepted \| Cao S., **JJC**<sup>∗</sup>, Dyks J., Hao L., Lee K., Li Z., Lu J., et al.
 
   RM fitting, revision
   
