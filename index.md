@@ -21,6 +21,11 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
     <td>2022--Now</td>
   </tr>
   <tr>
+    <td>Joint PhD</td>
+    <td>NAOC, CAS</td>
+    <td>2018-2022</td>
+  </tr>
+  <tr>
     <td>PhD</td>
     <td>Department of Astronomy,<br>Peking University</td>
     <td>2017--2022</td>
