@@ -70,6 +70,8 @@ FAST key science project: fast radio burst searches and multi-wavelength observa
 
 FAST key science project: Galactic Plane Pulsar Snapshot (GPPS) survey
 
+FAST Users Committee
+
 # Awards
 
 <table>
