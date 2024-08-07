@@ -103,7 +103,7 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As first author or corresponding coauthor
 
-- *Ninety percent circular polarisation detected in a repeating fast radio burst*
+- [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://arxiv.org/abs/2408.03313)
 
   NSR accepted \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
 
