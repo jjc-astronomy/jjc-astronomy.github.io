@@ -110,7 +110,7 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As first author or corresponding coauthor
 
-- [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://arxiv.org/abs/2408.03313)
+- [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://ui.adsabs.harvard.edu/abs/2024arXiv240803313J/abstract)
 
   NSR accepted \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
 
@@ -142,27 +142,33 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As major contributing coauthor
 
+- [*Sudden polarization angle jumps of the repeating fast radio burst FRB 20201124A*](https://ui.adsabs.harvard.edu/abs/2024arXiv240710540N/abstract)
+
+  ApJL accepted \| Niu J. R., Wang W. Y., **JJC**, Qu Y., Zhou D. J., Zhu W. W.<sup>∗</sup>, Lee K. J.<sup>∗</sup>, Han J. L.<sup>∗</sup>, Zhang B.<sup>∗</sup> et al.
+
+  Polarization data analysis
+
 - [*Searching for the Nano-Hertz Stochastic Gravitational Wave Background with the Chinese Pulsar Timing Array Data Release I*](https://ui.adsabs.harvard.edu/abs/2023RAA....23g5024X/abstract)
 
-  RAA (2023) \| Xu H., Chen S., Guo Y., **JJC**, Wang B., Xu J., Xue Z., et al.
+  RAA (2023) \| Xu H., Chen S., Guo Y., **JJC**, Wang B., Xu J., Xue Z., Caballero, R. N., Yuan J., Xu Y., Wang J., Hao L., Luo J., Lee K.<sup>∗</sup>, et al.
 
   Polarisatioin calibration pipeline
 
 - [*Atlas of dynamic spectra of fast radio burst FRB 20201124A*](https://ui.adsabs.harvard.edu/abs/2023ChPhB..32b9801W/abstract)
 
-  ChPhB (2023) \| Wang B.-J., Xu H., **JJC**, Xu J.-W., Niu J.-R., Chen P., Lee K.-J., et al.
+  ChPhB (2023) \| Wang B.-J., Xu H., **JJC**, Xu J.-W., Niu J.-R., Chen P., Lee K.-J.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Zhu W.-W.<sup>∗</sup>, et al.
 
   Polarisation calibration
 
 - [*A fast radio burst source at a complex magnetized site in a barred galaxy*](https://ui.adsabs.harvard.edu/abs/2022Natur.609..685X/abstract)
 
-  Nature (2022) \| Xu H., Niu J. R., Chen P., Lee K. J., Zhu W. W., Dong S., Zhang B., et al.
+  Nature (2022) \| Xu H., Niu J. R., Chen P., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Dong S.<sup>∗</sup>, Zhang B.<sup>∗</sup>, et al.
 
   Polarisation calibration, RM fitting
 
 - [*Diverse polarization angle swings from a repeating fast radio burst source*](https://ui.adsabs.harvard.edu/abs/2020Natur.586..693L/abstract)
 
-  Nature (2020) \| Luo R., Wang B. J., Men Y. P., Zhang C. F., **JJC**, Xu H., Wang W. Y., et al.
+  Nature (2020) \| Luo R., Wang B. J., Men Y. P., Zhang C. F., **JJC**, Xu H., Wang W. Y., Lee K. J.<sup>∗</sup>, Han J. L.<sup>∗</sup>, Zhang B.<sup>∗</sup>, et al.
 
   Source localisation, polarisation calibration, RM fitting, analysis of polarisation profiles, plotting figures
 
