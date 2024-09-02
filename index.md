@@ -174,7 +174,7 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 # Talk & presentation
 
-- *HI absorption line & anomalous dispersion in pulsar emission*
+- [*HI absorption line & anomalous dispersion in pulsar emission*](https://psr.pku.edu.cn/conference/ska/ska2024/slide/jiang_jinchen.pdf)
 
   SKA Pulsar Science Symposium (SPSS) 2024, Kunming, 2024
 
