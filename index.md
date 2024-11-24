@@ -110,6 +110,12 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As first author or corresponding coauthor
 
+- *The Chinese Pulsar Timing Array Data Release I: Polarimetry for 56 millisecond pulsars*
+  
+  Submitted to A&A \| Xu J.<sup>∗</sup>, **JJC**<sup>∗</sup>, Xu H.<sup>∗</sup>, Wang B., Xue Z., Chen S., Guo Y., et al.
+
+  RM fitting, RM variation analysis
+
 - [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://ui.adsabs.harvard.edu/abs/2024arXiv240803313J/abstract)
 
   NSR accepted \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
