@@ -148,9 +148,9 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As major contributing coauthor
 
-- [*Sudden polarization angle jumps of the repeating fast radio burst FRB 20201124A*](https://ui.adsabs.harvard.edu/abs/2024arXiv240710540N/abstract)
+- [*Sudden polarization angle jumps of the repeating fast radio burst FRB 20201124A*](https://ui.adsabs.harvard.edu/abs/2024ApJ...972L..20N/abstract)
 
-  ApJL accepted \| Niu J. R., Wang W. Y., **JJC**, Qu Y., Zhou D. J., Zhu W. W.<sup>∗</sup>, Lee K. J.<sup>∗</sup>, Han J. L.<sup>∗</sup>, Zhang B.<sup>∗</sup> et al.
+  ApJL \| Niu J. R., Wang W. Y., **JJC**, Qu Y., Zhou D. J., Zhu W. W.<sup>∗</sup>, Lee K. J.<sup>∗</sup>, Han J. L.<sup>∗</sup>, Zhang B.<sup>∗</sup> et al.
 
   Polarization data analysis
 
