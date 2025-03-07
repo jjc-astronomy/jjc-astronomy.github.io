@@ -247,8 +247,3 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
   QiTai Telescope (QTT) colloquium, Wuhan, 2017
 
-  FPS Special: magnetospheric dynamics, Beijing, 2019
-
-- The wide radio beams & emission region of PSR B0656+14
-
-  QiTai Telescope (QTT) colloquium, Wuhan, 2017
