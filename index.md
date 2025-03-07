@@ -17,7 +17,7 @@ I’m interested in radio observation of pulsars and fast radio bursts (FRBs). P
 <table>
   <tr>
     <td>Postdoc</td>
-    <td>NAOC, CAS</td>
+    <td>MPIfR</td>
     <td>2025-Now</td>
   </tr>
   <tr>
@@ -115,15 +115,21 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
 
 ## As first author or corresponding coauthor
 
-- *The Chinese Pulsar Timing Array Data Release I: Polarimetry for 56 millisecond pulsars*
+- [*Rapid Rotation of Polarization Orientations in PSR B1919+21's Single Pulses: Implications On Pulsar's Magnetospheric Dynamics*](https://ui.adsabs.harvard.edu/abs/2024arXiv241118999C/abstract)
   
-  Submitted to A&A \| Xu J.<sup>∗</sup>, **JJC**<sup>∗</sup>, Xu H.<sup>∗</sup>, Wang B., Xue Z., Chen S., Guo Y., et al.
+  ApJ (in press) \| Cao S., **JJC**<sup>∗</sup>, Dkys J., Lee K.<sup>∗</sup>, Lu J, Oswald L. S. , Wang W., Xu R.
+
+  RM fitting, model construction, revision
+
+- [*The Chinese Pulsar Timing Array Data Release I: Polarimetry for 56 millisecond pulsars*](https://ui.adsabs.harvard.edu/abs/2025arXiv250220820X/abstract)
+  
+  A&A (in press) \| Xu J.<sup>∗</sup>, **JJC**<sup>∗</sup>, Xu H.<sup>∗</sup>, Wang B., Xue Z., Chen S., Guo Y., et al.
 
   RM fitting, RM variation analysis
 
-- [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://ui.adsabs.harvard.edu/abs/2024arXiv240803313J/abstract)
+- [*Ninety percent circular polarisation detected in a repeating fast radio burst*](https://ui.adsabs.harvard.edu/abs/2024NSRev..12..293J/abstract)
 
-  NSR accepted \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
+  NSR \| **JJC**, Xu J. W., Niu J. R., Lee K. J.<sup>∗</sup>, Zhu W. W.<sup>∗</sup>, Zhang B.<sup>∗</sup>, Qu Y., et al.
 
   Polarimetry
   
@@ -234,6 +240,12 @@ ADS Library: [https://ui.adsabs.harvard.edu/user/libraries/ANjVvknmRi2mKN1qApIWc
   18th ZHONG Shengbiao Graduate Forum, School of Physics, Peking University, 2020
 
 - [*FRB 171019: an event of binary neutron star merger?*](https://psr.pku.edu.cn/conference/fps/fragrant_hills/slides/jiang_jc.pdf)
+
+  FPS Special: magnetospheric dynamics, Beijing, 2019
+
+- The wide radio beams & emission region of PSR B0656+14
+
+  QiTai Telescope (QTT) colloquium, Wuhan, 2017
 
   FPS Special: magnetospheric dynamics, Beijing, 2019
 
