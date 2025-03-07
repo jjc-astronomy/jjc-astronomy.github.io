@@ -4,13 +4,13 @@ title: JJC
 ---
 # Contact
 
-Current email: jiangjinchen@bao.ac.cn
+Current email: jjiang@mpifr-bonn.mpg.de
 
-Previous email: jiangjinchen@pku.edu.cn
+Previous email: jiangjinchen@bao.ac.cn, jiangjinchen@pku.edu.cn
 
 # Research interests
 
-I’m interested in radio observation of pulsars and FRBs, especially on polarmetry and baseband data processing. I believe that polarisation is the key to understand the radiative mechanism of radio pulsars and FRBs. I’m also working on baseband data in order to achieve high temporal/spectral resolution in pulsar and FRB observations.
+I’m interested in radio observation of pulsars and fast radio bursts (FRBs). Previously, I cooperate with the Five-hundred-meter Aperture Spherical Telescope (FAST) to measure the polarization of pulsars and FRBs. I also worked on the digital signal processing of baseband data from the radio telescope. I'm very happy to join Max-Planck-Institut für Radioastronomie to search for radio pulsars in globular clusters.
 
 
 # Education & Employment
@@ -18,7 +18,12 @@ I’m interested in radio observation of pulsars and FRBs, especially on polarme
   <tr>
     <td>Postdoc</td>
     <td>NAOC, CAS</td>
-    <td>2022-Now</td>
+    <td>2025-Now</td>
+  </tr>
+  <tr>
+    <td>Postdoc</td>
+    <td>NAOC, CAS</td>
+    <td>2022-2024</td>
   </tr>
   <tr>
     <td>Joint PhD</td>
