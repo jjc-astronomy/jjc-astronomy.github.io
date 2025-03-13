@@ -10,7 +10,7 @@ Previous email: jiangjinchen@bao.ac.cn, jiangjinchen@pku.edu.cn
 
 # Research interests
 
-I’m interested in radio observation of pulsars and fast radio bursts (FRBs). Previously, I cooperate with the Five-hundred-meter Aperture Spherical Telescope (FAST) to measure the polarization of pulsars and FRBs. I also worked on the digital signal processing of baseband data from the radio telescope. I'm very happy to join Max-Planck-Institut für Radioastronomie to search for radio pulsars in globular clusters.
+I’m interested in radio observation of pulsars and fast radio bursts (FRBs). Previously, I cooperated with the Five-hundred-meter Aperture Spherical Telescope (FAST) to measure the polarization of pulsars and FRBs. I also worked on the digital signal processing of baseband data from the radio telescope. I'm very happy to join Max-Planck-Institut für Radioastronomie (MPIfR) to search for radio pulsars in globular clusters.
 
 
 # Education & Employment
